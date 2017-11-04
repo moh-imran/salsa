@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="36px" height="48px" viewBox="0 0 36 48" enable-background="new 0 0 36 48" xml:space="preserve">
+<filter  width="200%" height="200%" y="-50%" x="-50%" id="filter-2" filterUnits="objectBoundingBox">
+	<feOffset  dx="0" in="SourceAlpha" result="shadowOffsetOuter1" dy="2"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"></feGaussianBlur>
+	<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.100741621 0" in="shadowBlurOuter1">
+		</feColorMatrix>
+</filter>
+<title>marker_orange</title>
+<desc>Created with Sketch.</desc>
+<g id="Free---Desktop">
+	<g id="Desktop-HD---Start-Map---PAID-" transform="translate(-617.000000, -537.000000)">
+		<g id="Pointer-Skolor" transform="translate(364.000000, 458.000000)">
+			<g id="marker_orange" transform="translate(257.000000, 81.000000)">
+				<g id="Shape">
+					<g filter="url(#filter-2)">
+						<path d="M23.899,4.1L23.899,4.1c-5.467-5.467-14.331-5.467-19.799,0l0,0C-0.826,9.026-1.38,18.302,2.8,23.876L14,40.051
+							l11.199-16.175C29.381,18.302,28.826,9.026,23.899,4.1L23.899,4.1z M14.136,18.484c-2.552,0-4.621-2.068-4.621-4.621
+							c0-2.552,2.069-4.621,4.621-4.621c2.553,0,4.622,2.069,4.622,4.621C18.758,16.416,16.689,18.484,14.136,18.484L14.136,18.484z
+							"/>
+					</g>
+					<g>
+						<path id="path-1_1_" fill="#F89406" d="M23.899,4.1L23.899,4.1c-5.467-5.467-14.331-5.467-19.799,0l0,0
+							C-0.826,9.026-1.38,18.302,2.8,23.876L14,40.051l11.199-16.175C29.381,18.302,28.826,9.026,23.899,4.1L23.899,4.1z
+							 M14.136,18.484c-2.552,0-4.621-2.068-4.621-4.621c0-2.552,2.069-4.621,4.621-4.621c2.553,0,4.622,2.069,4.622,4.621
+							C18.758,16.416,16.689,18.484,14.136,18.484L14.136,18.484z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<path id="Rectangle-6" fill="#FFFFFF" d="M15,8.908h6c2.209,0,4,1.791,4,4v6c0,2.209-1.791,4-4,4h-6c-2.209,0-4-1.791-4-4v-6
+	C11,10.699,12.791,8.908,15,8.908z"/>
+<path id="Shape_1_" d="M14.089,16.157C14.029,16.098,14,16.01,14,15.951s0.029-0.148,0.089-0.207l0.413-0.414
+	c0.118-0.118,0.295-0.118,0.414,0l0.029,0.029l1.625,1.743c0.059,0.06,0.147,0.06,0.206,0l3.958-4.105h0.029l0,0
+	c0.119-0.118,0.296-0.118,0.414,0l0.414,0.413c0.117,0.118,0.117,0.295,0,0.414l0,0l-4.727,4.904
+	c-0.059,0.059-0.118,0.089-0.207,0.089c-0.088,0-0.147-0.03-0.207-0.089l-2.304-2.481L14.089,16.157L14.089,16.157z"/>
+</svg>
